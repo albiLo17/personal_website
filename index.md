@@ -7,6 +7,7 @@
 #
 layout: page
 ---
+
 <div style="display: flex; align-items: center;">
 
   <!-- Left column for text -->
@@ -26,18 +27,16 @@ layout: page
 
 </div>
 
-[//]: # (I envision a future where robots are ubiquitous and capable of complex reasoning and manipulation tasks in unstructured, highly-variable environments. My research lies at the intersection of robotics and machine learning, focusing on the adaptive manipulation of Cloth-like Deformable Objects &#40;CDO&#41;. This under-explored area requires novel approaches for the characterization, perception, modeling, and control of CDOs. I develop methods to characterize and perceive these objects, learning representations that account for their physical properties and advancing generalization techniques for learning-based dynamics and planning suitable for robotic manipulation. Additionally, I am currently exploring the use of foundation models to enhance the perception and manipulation of cloth-like objects, aiming to equip robots with enhanced adaptive skills.)
+[//]: # "I envision a future where robots are ubiquitous and capable of complex reasoning and manipulation tasks in unstructured, highly-variable environments. My research lies at the intersection of robotics and machine learning, focusing on the adaptive manipulation of Cloth-like Deformable Objects (CDO). This under-explored area requires novel approaches for the characterization, perception, modeling, and control of CDOs. I develop methods to characterize and perceive these objects, learning representations that account for their physical properties and advancing generalization techniques for learning-based dynamics and planning suitable for robotic manipulation. Additionally, I am currently exploring the use of foundation models to enhance the perception and manipulation of cloth-like objects, aiming to equip robots with enhanced adaptive skills."
 
 ---
 
 ### Professional Service
 
-  * PhD Representative - Member of the EECS PhD school council 2023 - Now
-  * Co-Organizer of ICRA 2024 workshop on [Representing and Manipulating Deformable Objects](https://deformable-workshop.github.io/icra2022/)
-
+- PhD Representative - Member of the EECS PhD school council 2023 - Now
+- Co-Organizer of ICRA 2024 workshop on [Representing and Manipulating Deformable Objects](https://deformable-workshop.github.io/icra2022/)
 
 ---
-
 
 ### Teaching Assistant
 
@@ -47,10 +46,11 @@ layout: page
 ---
 
 ### Reviews
-  * Reviewer for CoRL 2024 - Now
-  * Reviewer for RA-L 2023 - Now
-  * Reviewer for IROS 2022 - Now
-  * Reviewer for ICRA 2022-Now
+
+- Reviewer for CoRL 2024 - Now
+- Reviewer for RA-L 2023 - Now
+- Reviewer for IROS 2022 - Now
+- Reviewer for ICRA 2022-Now
 
 ---
 
@@ -69,10 +69,6 @@ Please check my calendar to see if I am available prior to suggesting a meeting 
 KTH Royal Institute of Technology  
 Division of Robotics, Perception, and Learning (RPL)  
 School of Electrical Engineering and Computer Science  
-Teknikringen 14, 7th floor, SE-100 44 Stockholm, Sweden  
+Teknikringen 14, 7th floor, SE-100 44 Stockholm, Sweden
 
 ---
-
-
-
-
